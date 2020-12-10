@@ -1,0 +1,1 @@
+# minimals_architecture
