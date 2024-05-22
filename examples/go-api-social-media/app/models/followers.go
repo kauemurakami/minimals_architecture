@@ -1,6 +1,6 @@
 package models
 
-import "../../../../go-api-social-media/app/models/github.com/google/uuid"
+import "github.com/google/uuid"
 
 type Followers struct {
 	ID         uuid.UUID `json:"id,omitempty"`

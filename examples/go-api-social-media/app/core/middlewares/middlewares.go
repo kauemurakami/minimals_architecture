@@ -1,6 +1,6 @@
 package middlewares
 
-import "../../../../../go-api-social-media/app/core/middlewares/net/http"
+import "net/http"
 
 func SetupHeadersMiddleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {

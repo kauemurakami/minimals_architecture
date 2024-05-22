@@ -1,6 +1,6 @@
 package sec
 
-import "../../../../../go-api-social-media/app/core/secutiry/golang.org/x/crypto/bcrypt"
+import "golang.org/x/crypto/bcrypt"
 
 /*
 Convert our password string in hash

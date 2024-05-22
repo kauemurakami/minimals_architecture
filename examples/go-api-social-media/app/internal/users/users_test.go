@@ -1,6 +1,6 @@
 package users
 
-import "../../../../../go-api-social-media/app/internal/users/testing"
+import "testing"
 
 func TestNameFunction(t *testing.T) {
 

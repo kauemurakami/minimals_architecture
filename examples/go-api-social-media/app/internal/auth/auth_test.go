@@ -1,6 +1,7 @@
 package auth
 
-import "../../../../../go-api-social-media/app/internal/auth/testing"
+import "testing"
+
 func TestNameFunction(t *testing.T) {
-	
+
 }
