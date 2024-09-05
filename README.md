@@ -5,22 +5,26 @@
 # minimals_architecture
 ```yaml
 /your-project
-  /core
-    /config
-    /helpers
-    /middlewares 
-  /modules 
-    /exemple
-      exemple.extension
-      exemple_test.extension
-      exemple_routes.extension
-  /data
-    /models 
-    /db
-    /api 
-  /routes
-   routes.extension
-
-
-
+  /app
+    /core
+      /config
+      /helpers
+      /middlewares 
+      /utils
+        /global_functions/
+        /extensions/
+    /modules 
+      /login
+        login.extension
+        login_test.extension
+        login_routes.extension
+    /data
+      /enums/
+      /models/ 
+      /db/
+      /api/ 
+    /routes
+      user_routes.extension
+      another_routes.extension
+      main.extension
 ```
