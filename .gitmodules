@@ -1,3 +1,6 @@
 [submodule "go-api-social-media"]
 	path = go-api-social-media
 	url = https://github.com/kauemurakami/go-api-social-media.git
+[submodule "node-api-social-media"]
+	path = node-api-social-media
+	url = https://github.com/kauemurakami/node-api-social-media.git

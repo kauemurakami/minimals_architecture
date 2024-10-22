@@ -9,22 +9,24 @@
     /core
       /config
       /helpers
-      /middlewares 
+      /middlewares
       /utils
         /global_functions/
         /extensions/
-    /modules 
+    /modules
       /login
-        login.extension
+        login_controller.extension
         login_test.extension
         login_routes.extension
+        /functions
     /data
       /enums/
-      /models/ 
+      /models/
       /db/
-      /api/ 
+      /api/
     /routes
       user_routes.extension
       another_routes.extension
-      main.extension
+      routes.extension
+  main.extension
 ```
