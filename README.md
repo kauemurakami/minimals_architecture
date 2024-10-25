@@ -15,9 +15,9 @@
         /extensions/
     /modules
       /login
-        login_controller.extension
-        login_test.extension
-        login_routes.extension
+        controller.extension
+        test.extension
+        routes.extension
         /functions
     /data
       /enums/
