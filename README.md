@@ -9,6 +9,7 @@
     /core
       /config
       /helpers
+      /errors
       /middlewares
       /utils
         /global_functions/
