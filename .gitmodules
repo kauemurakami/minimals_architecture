@@ -6,4 +6,4 @@
 	url = https://github.com/kauemurakami/node-api-social-media.git
 [submodule "frontend-flutter-minimals-architecture-example"]
 	path = flutter-minimals-architecture-example
-	url = https://github.com/kauemurakami/node-api-social-media.git
+	url = https://github.com/kauemurakami/minimals_frontend_flutter_example.git
