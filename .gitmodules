@@ -4,3 +4,6 @@
 [submodule "node-api-social-media"]
 	path = node-api-social-media
 	url = https://github.com/kauemurakami/node-api-social-media.git
+[submodule "flutter-minimals-architecture-example"]
+	path = flutter-minimals-architecture-example
+	url = https://github.com/kauemurakami/minimals_frontend_flutter_example.git
